@@ -1,8 +1,8 @@
 - 👋 Hi, I’m SaiKiran
-- 🏢 Working as a Data Engineer
+- 🏢 Working as a Data Engineer, Certified Databricks Data Engineer Associate and also AWS Certified Developer Associate 
 - 👀 I’m interested in Data Analytics, Data Engineering, Big Data, Machine Learning.
-- 🌱 I’m currently learning Cloud and AWS
-- 💞️ I’m looking to collaborate on Machine Learing/Deep Learning and anything related to Data.
+- 🌱 I’m currently working on Cloud and Azure, AWS.
+- 💞️ I’m looking to collaborate on Data Engineering space and anything related to Data.
 <!--- 📫 How to reach me ...✉️: saikiranmatla@gmail.com-->
 
 
